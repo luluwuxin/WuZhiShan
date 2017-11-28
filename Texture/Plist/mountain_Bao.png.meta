@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5a538a0c-f192-48b0-8897-a9b3107e566f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mountain_Bao": {
+      "ver": "1.0.3",
+      "uuid": "5606e486-8b4b-4c1d-8802-0cc6d6faac20",
+      "rawTextureUuid": "5a538a0c-f192-48b0-8897-a9b3107e566f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -13,
+      "offsetY": 54,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 4066,
+      "height": 3984,
+      "rawWidth": 4096,
+      "rawHeight": 4096,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
